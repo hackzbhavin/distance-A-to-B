@@ -23,8 +23,8 @@ Folium is a Python library used for visualizing geospatial data. It is easy to u
 Why GeoPy
 --------
 - https://pypi.org/project/geopy/
->geopy is a Python client for several popular geocoding web services.
-
+>
+geopy is a Python client for several popular geocoding web services.
 geopy makes it easy for Python developers to locate the coordinates of addresses, cities, countries, and landmarks across the globe using third-party geocoders and other data sources.
 
 --------
